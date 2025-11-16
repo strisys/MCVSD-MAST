@@ -4,8 +4,7 @@
 
 # **Math Section (15 Questions)**
 
-**1.** Which expression is equivalent to
-(;4(3x - 2) - 5x)?
+**1.** Which expression is equivalent to 4(3x - 2) - 5x)?
 A) (7x - 8)
 B) (12x - 8 - 5x)
 C) (9x + 2)
@@ -17,11 +16,11 @@ B) 5 cups
 C) 6 ¾ cups
 D) 7 ¼ cups
 
-**3.** A store discounts a $40 jacket by 15%. What is the sale price?
-A) $34.00
-B) $35.50
-C) $36.00
-D) $32.00
+**3.** A store discounts a \$40 jacket by 15%. What is the sale price?
+ A) $34.00
+ B) \$35.50
+ C) \$36.00
+ D) \$32.00
 
 **4.** Solve: (3(x - 5) = 12)
 A) 1
@@ -36,10 +35,10 @@ C) 8
 D) 9
 
 **6.** A line passes through points (1, 3) and (4, 9). What is its slope?
-A) 2
-B) 3
-C) 6
-D) (\frac{2}{3})
+ A) 2
+ B) 3
+ C) 6
+ D) $\frac{2}{3}$
 
 **7.** What is 30% of 250?
 A) 50
@@ -54,10 +53,10 @@ C) 14
 D) 15
 
 **9.** Convert 3.75 to a fraction in simplest form.
-A) ( \frac{15}{4} )
-B) ( \frac{7}{3} )
-C) ( \frac{3}{4} )
-D) ( \frac{19}{5} )
+ A) $\frac{15}{4}$
+ B) $\frac{7}{3}$
+ C) $\frac{3}{4}$
+ D) $\frac{19}{5}$
 
 **10.** A box has dimensions 3 in × 4 in × 5 in. What is its volume?
 A) 60
@@ -89,11 +88,11 @@ B) 60%
 C) 65%
 D) 75%
 
-**15.** Which is greater: ( \frac{3}{4} ) or 0.7 ?
-A) ( \frac{3}{4} )
-B) 0.7
-C) They are equal
-D) Not enough information
+**15.** Which is greater: $\frac{3}{4}$ or 0.7 ?
+ A) $\frac{3}{4}$
+ B) 0.7
+ C) They are equal
+ D) Not enough information
 
 # **Language Arts Section (15 Questions)**
 

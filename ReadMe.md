@@ -4,11 +4,13 @@
 
 # **Math Section (15 Questions)**
 
-**1.** Which expression is equivalent to 4(3x - 2) - 5x)?
+**1.** Which expression is equivalent to 4(3x - 2) - 5x?
 A) (7x - 8)
 B) (12x - 8 - 5x)
 C) (9x + 2)
 D) (12x - 5x - 8)
+
+D
 
 **2.** A recipe calls for 2 ¼ cups of flour. You want to make 3 batches. How much flour is needed?
 A) 4 ½ cups
@@ -16,11 +18,15 @@ B) 5 cups
 C) 6 ¾ cups
 D) 7 ¼ cups
 
+C
+
 **3.** A store discounts a \$40 jacket by 15%. What is the sale price?
  A) $34.00
  B) \$35.50
  C) \$36.00
  D) \$32.00
+
+idk
 
 **4.** Solve: (3(x - 5) = 12)
 A) 1
@@ -28,11 +34,15 @@ B) 7
 C) 17
 D) 12
 
+C
+
 **5.** A number is multiplied by 8 and then reduced by 3. The result is 53. What is the number?
 A) 6
 B) 7
 C) 8
 D) 9
+
+B
 
 **6.** A line passes through points (1, 3) and (4, 9). What is its slope?
  A) 2
@@ -40,11 +50,15 @@ D) 9
  C) 6
  D) $\frac{2}{3}$
 
+B
+
 **7.** What is 30% of 250?
 A) 50
 B) 65
 C) 75
 D) 80
+
+D
 
 **8.** The area of a rectangle is 84 and one side is 7. What is the other side?
 A) 12
@@ -52,11 +66,21 @@ B) 13
 C) 14
 D) 15
 
+
+
+l x w = A 
+
+7 x w = 84
+
+A
+
 **9.** Convert 3.75 to a fraction in simplest form.
  A) $\frac{15}{4}$
  B) $\frac{7}{3}$
  C) $\frac{3}{4}$
  D) $\frac{19}{5}$
+
+A
 
 **10.** A box has dimensions 3 in × 4 in × 5 in. What is its volume?
 A) 60
@@ -64,11 +88,15 @@ B) 70
 C) 40
 D) 20
 
+A
+
 **11.** Which number is **not** prime?
 A) 11
 B) 19
 C) 21
 D) 23
+
+C
 
 **12.** The mean of the numbers 4, 8, 12, and x is 10. What is x?
 A) 12
@@ -76,11 +104,19 @@ B) 16
 C) 20
 D) 24
 
+(4+8+12+x)/4 = 10
+
+(4+8+12+x) = 40
+
+B
+
 **13.** You run 2 miles in 18 minutes. What is your pace in minutes per mile?
 A) 7
 B) 8
 C) 9
 D) 10
+
+ C
 
 **14.** A class has 12 boys and 18 girls. What percent of the class are girls?
 A) 50%
@@ -88,11 +124,17 @@ B) 60%
 C) 65%
 D) 75%
 
+12+18 = 30
+
+B
+
 **15.** Which is greater: $\frac{3}{4}$ or 0.7 ?
  A) $\frac{3}{4}$
  B) 0.7
  C) They are equal
  D) Not enough information
+
+A
 
 # **Language Arts Section (15 Questions)**
 

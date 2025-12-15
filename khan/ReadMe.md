@@ -54,6 +54,10 @@
 
 ## 8th  ([link](https://www.khanacademy.org/math/cc-eighth-grade-math))
 
+#### 8.3.1 Rates & Proportional Relationships ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/comparing-proportional-relationships), moderate)
+
+- This involves determining the proportional relationships in each example and comparing them.  It takes thought.  They use tables, graphs, and formulas.  The trick is first to identify the independent and dependent rates of change, and then to divide the independent by the dependent to find the proportional relationship.  We do the same for any other items presented in the problem, and compare.
+
 #### 8.3.5 Intercepts from a graph ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-x-and-y-intercepts/e/linear-function-intercepts), easy)
 
 - When dealing with x- and y-intercepts, the y- and x-coordinates are 0, respectively, in the ordered pair.  Set to 0 and then look at each intercept and get the values for x and y.
@@ -87,3 +91,31 @@
   
 
 #### 8.3.9 Slope from equation ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope/e/slope-from-an-equation-in-standard-form))
+
+#### 8.3.22 Graphing linear relationships word problems ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/graphing-linear-functions-word-problems), difficult)
+
+- They give you a point on the graph, and then you have to derive the second point from the first, given the slope.
+
+#### 8.3.22 Comparing linear functions word problems ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/compare-linear-fuctions/e/comparing-features-of-functions-1), moderate)
+
+- 
+
+#### 8.3.23 Writing linear functions word problems ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/writing-linear-functions-word-problems), moderate)
+
+- Really need to read the problem.
+
+#### 8.3.24 Recognize functions from tables ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/e/recognizing_functions), easy)
+
+- The trick is to ensure that, given a value of x, there are not multiple values for y.
+
+#### 8.3.25 Recognize functions from graphs ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/e/recog-func-2), easy)
+
+- The trick is to look at the graph and see if there can be multiple values of y for a given value of x.  This occurs when the line is vertical.
+
+#### 8.3.26 Linear & nonlinear functions ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/e/linear-non-linear-functions), easy)
+
+- Relatively easy when the problems involve graphs.  Basically, anything that is not a continuous line is not linear.  When the problem involves tables, calculate the slope and if constant then linear.
+
+#### 8.3.27 Interpreting graphs of functions ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/e/interpreting-graphs-of-linear-and-nonlinear-functions), difficult)
+
+- This concerns the interpretation of the graph.  It's an essential skill, but I’m not sure if it’s on the exam.

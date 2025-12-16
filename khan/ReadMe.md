@@ -54,13 +54,48 @@
 
 ## 8th  ([link](https://www.khanacademy.org/math/cc-eighth-grade-math))
 
+
+
+| Number | Title                                       | Exercise link                                                | Difficulty |
+| ------ | ------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| 8.3.1  | Rates & Proportional Relationships          | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/comparing-proportional-relationships) | Moderate   |
+| 8.3.2  | Graphing proportional relationships          | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/graphing-proportional-relationships) | Moderate   |
+| 8.3.2  | Solutions to 2-variable equations          | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-solutions-to-two-var-linear-equations/e/plugging_in_values) | Basic   |
+| 8.3.5  | Intercepts from a graph                     | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-x-and-y-intercepts/e/linear-function-intercepts) | Easy       |
+| 8.3.6  | Intercepts from an equation                 | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-x-and-y-intercepts/e/solving_for_the_x-intercept) | Easy       |
+| 8.3.7  | Slope from graph                            | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope/e/slope-from-a-graph) | Difficult  |
+| 8.3.8  | Slope from two points                       | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope/e/slope-from-two-points) | Easy       |
+| 8.3.9  | Slope from equation                         | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope/e/slope-from-an-equation-in-standard-form) |            |
+| 8.3.14 | Evaluate functions                          | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/evaluate-functions) | Basic      |
+| 8.3.15 | Evaluate functions from their graph         | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/evaluate-functions-from-graph) | Basic      |
+| 8.3.16 | Function rules from equations               | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/function-rules-from-equations) | Easy       |
+| 8.3.17 | Linear equations word problems: graphs      | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/interpreting-linear-graphs) | Moderate   |
+| 8.3.22 | Graphing linear relationships word problems | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/graphing-linear-functions-word-problems) | Difficult  |
+| 8.3.22 | Comparing linear functions word problems    | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/compare-linear-fuctions/e/comparing-features-of-functions-1) | Moderate   |
+| 8.3.23 | Writing linear functions word problems      | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/writing-linear-functions-word-problems) | Moderate   |
+| 8.3.24 | Recognize functions from tables             | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/e/recognizing_functions) | Easy       |
+| 8.3.25 | Recognize functions from graphs             | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/e/recog-func-2) | Easy       |
+| 8.3.26 | Linear & nonlinear functions                | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/e/linear-non-linear-functions) | Easy       |
+| 8.3.27 | Interpreting graphs of functions            | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/e/interpreting-graphs-of-linear-and-nonlinear-functions) | Difficult  |
+
+
+
+
 #### 8.3.1 Rates & Proportional Relationships ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/comparing-proportional-relationships), moderate)
 
 - This involves determining the proportional relationships in each example and comparing them.  It takes thought.  They use tables, graphs, and formulas.  The trick is first to identify the independent and dependent rates of change, and then to divide the independent by the dependent to find the proportional relationship.  We do the same for any other items presented in the problem, and compare.
 
+#### 8.3.2 Graphing proportional relationships ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/graphing-proportional-relationships), moderate)
+
+- This section may provide the slope and then ask you to graph it.  It may also require you to write the equation representing the line.
+
+#### 8.3.3 Solutions to 2-variable equations ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-solutions-to-two-var-linear-equations/e/plugging_in_values), easy)
+
+- Its a matter of plugging in the values for $$x$$ and $$y$$ into the equation and seeing if the ordered pair works.
+
 #### 8.3.5 Intercepts from a graph ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-x-and-y-intercepts/e/linear-function-intercepts), easy)
 
-- When dealing with x- and y-intercepts, the y- and x-coordinates are 0, respectively, in the ordered pair.  Set to 0 and then look at each intercept and get the values for x and y.
+- When dealing with x- and y-intercepts, the y- and x-coordinates are 0, respectively, in the ordered pair.  Set it to 0, then examine each intercept and obtain the values of $$x$$ and $$y$$.
 
 #### 8.3.6 Intercepts from an equation ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-x-and-y-intercepts/e/solving_for_the_x-intercept), easy)
 
@@ -91,6 +126,24 @@
   
 
 #### 8.3.9 Slope from equation ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope/e/slope-from-an-equation-in-standard-form))
+
+
+
+#### 8.3.14 Evaluate functions ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/evaluate-functions), basic)
+
+- Plug in $$x$$ to solve for $$y$$.  Cannot get easier.
+
+#### 8.3.15 Evaluate functions from their graph ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/evaluate-functions-from-graph), basic)
+
+- Very easy.  Find the value of $$y$$ on the graph given $$x$$.
+
+#### 8.3.16 Function rules from equations ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/function-rules-from-equations), easy)
+
+- Identify the independent variable and rearrange the equation so it appears on one side.
+
+#### 8.3.17 Linear equations word problems: graphs ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/interpreting-linear-graphs), moderate)
+
+- This involves finding two points on the graph, calculating the slope ($$\frac{\Delta y}{\Delta x}$$), and then logically answering the question.
 
 #### 8.3.22 Graphing linear relationships word problems ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/graphing-linear-functions-word-problems), difficult)
 

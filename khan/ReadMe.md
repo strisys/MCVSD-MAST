@@ -71,6 +71,8 @@
 | 8.3.15 | Evaluate functions from their graph         | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/evaluate-functions-from-graph) | Basic      |
 | 8.3.16 | Function rules from equations               | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/function-rules-from-equations) | Easy       |
 | 8.3.17 | Linear equations word problems: graphs      | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/interpreting-linear-graphs) | Moderate   |
+| [8.3.18](#8.3.18) | Linear equations word problems      | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/linear-equations-word-problems) | Moderate   |
+| [8.3.19](#8.3.19) | Linear models word problems      | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/constructing-and-interpreting-linear-functions) | Moderate   |
 | 8.3.22 | Graphing linear relationships word problems | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/graphing-linear-functions-word-problems) | Difficult  |
 | 8.3.22 | Comparing linear functions word problems    | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/compare-linear-fuctions/e/comparing-features-of-functions-1) | Moderate   |
 | 8.3.23 | Writing linear functions word problems      | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/writing-linear-functions-word-problems) | Moderate   |
@@ -162,9 +164,21 @@ The slope from point C to point B is $$\frac{3}{2}$$.  Why start at C?  Because 
 
 - This involves finding two points on the graph, calculating the slope ($$\frac{\Delta y}{\Delta x}$$), and then logically answering the question.
 
-#### 8.3.22 Graphing linear relationships word problems ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/constructing-linear-models-real-world/e/graphing-linear-functions-word-problems), difficult)
+#### 8.3.17 Linear equations word problems: graphs ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/interpreting-linear-graphs), moderate)
 
-- They give you a point on the graph, and then you have to derive the second point from the first, given the slope.
+- This involves finding two points on the graph, calculating the slope ($$\frac{\Delta y}{\Delta x}$$), and then logically answering the question.
+
+#### 8.3.18 Linear equations word problems ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/linear-equations-word-problems), moderate)
+
+- Excellent exercise to understand the components of $$y = mx + b$$.  Each question will target part of this equation.  
+
+#### <a name='8.3.19'>8.3.19 Linear equations word problems</a> ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/linear-equations-word-problems), moderate)
+
+- Excellent exercise to understand the components of $$y = mx + b$$.  Each question will target part of this equation by having you fill in each appropriate part and solve for what is missing.  
+
+#### <a name='8.3.19'>8.3.20 Linear models word problems</a> ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/e/constructing-and-interpreting-linear-functions), moderate)
+
+- Similar to Exercise 8.3.19, this is an excellent way to understand the components of $$y = mx + b$$.  Each question will target part of this equation.  What is different here is you need to express the problem in the form of $$y = mx + b$$ and carefully answer each question.  
 
 #### 8.3.22 Comparing linear functions word problems ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/compare-linear-fuctions/e/comparing-features-of-functions-1), moderate)
 

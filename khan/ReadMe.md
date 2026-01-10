@@ -81,14 +81,16 @@
 | 8.3.26 | Linear & nonlinear functions                | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/e/linear-non-linear-functions) | Easy       |
 | 8.3.27 | Interpreting graphs of functions            | [exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/e/interpreting-graphs-of-linear-and-nonlinear-functions) | Difficult  |
 
+### First principles
+
+1. In many problems, it’s about the unit rate of change of \[y\] with respect to \[x\] is the amount \[y\] changes for a change of one unit in \[x\].  This relationship is proportional
 
 
+#### 8.3.1 Rates & Proportional Relationships ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/comparing-proportional-relationships), moderate (7 questions))
 
-#### 8.3.1 Rates & Proportional Relationships ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/comparing-proportional-relationships), moderate)
+- This involves determining the proportional relationships in each example and comparing them.  It takes thought.  They use a mix of tables, graphs, and formulas.  The trick is first to identify the independent and dependent variables, and then to divide the independent by the dependent to find the proportional relationship or rate of change given a unit of the independent ($$x$$).  We do the same for any other items presented in the problem and compare them.
 
-- This involves determining the proportional relationships in each example and comparing them.  It takes thought.  They use tables, graphs, and formulas.  The trick is first to identify the independent and dependent rates of change, and then to divide the independent by the dependent to find the proportional relationship.  We do the same for any other items presented in the problem, and compare.
-
-#### 8.3.2 Graphing proportional relationships ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/graphing-proportional-relationships), moderate)
+#### 8.3.2 Graphing proportional relationships ([exercise](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/graphing-proportional-relationships), moderate (4 questions))
 
 - This section may provide the slope and then ask you to graph it.  It may also require you to write the equation representing the line.
 

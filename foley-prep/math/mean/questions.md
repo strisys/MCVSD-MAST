@@ -41,6 +41,3 @@ A small class took a 10-point quiz. The distribution of scores is listed below. 
 
 
 
-------
-
-Would you like me to create a step-by-step guide on how to find the **median** from these same tables?

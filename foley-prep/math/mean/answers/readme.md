@@ -5,7 +5,9 @@ To calculate the mean from a frequency table, you multiply each **Value** by its
 ### Question 1
 
 Answer: Total sum: $(1 \times 3) + (2 \times 6) + (3 \times 8) + (4 \times 3) = 3 + 12 + 24 + 12 = 51$
+
 Total students: $3 + 6 + 8 + 3 = 20$
+
 $\text{Mean} = \frac{51}{20} = \mathbf{2.6}$
 
 ### Question 2

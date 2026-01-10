@@ -1,11 +1,5 @@
 # Mean
 
-To calculate the mean from a frequency table, you multiply each **Value** by its **Frequency** to find the total sum, then divide by the **Total Frequency** (the number of students).
-
-The correct answer for your image was 7.3 because:
-
-$\text{Mean} = \frac{(5 \times 5) + (6 \times 1) + (7 \times 4) + (8 \times 5) + (9 \times 6)}{5 + 1 + 4 + 5 + 6} = \frac{153}{21} \approx 7.285$
-
 ------
 
 ### Practice Question 1: Survey Results
@@ -19,12 +13,6 @@ A group of students was asked how many books they read over the summer. The resu
 | 3                      | 8                                  |
 | 4                      | 3                                  |
 
-Answer: Total sum: $(1 \times 3) + (2 \times 6) + (3 \times 8) + (4 \times 3) = 3 + 12 + 24 + 12 = 51$
-
-Total students: $3 + 6 + 8 + 3 = 20$
-
-$\text{Mean} = \frac{51}{20} = \mathbf{2.6}$
-
 ------
 
 ### Practice Question 2: Daily Rainfall
@@ -37,8 +25,6 @@ A meteorologist recorded the amount of rainfall (in inches) over 10 days. Find t
 | 1                    | 2                    |
 | 2                    | 3                    |
 | 5                    | 1                    |
-
-
 
 ------
 

@@ -1,9 +1,5 @@
 git status
 git pull
-git status
-git add .
-git commit -m"fo-shizzle" 
-git status
-git pull
+git commit -m"fo-shizzle" --all
 git push
 pause

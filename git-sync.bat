@@ -1,5 +1,9 @@
 git status
 git pull
-git commit -m"fo-shizzle" --all
+git status
+git add .
+git commit -m"fo-shizzle" 
 git push
-pause
+
+pwsh .\Remove-Answers.ps1
+

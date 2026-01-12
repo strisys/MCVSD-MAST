@@ -1,2 +1,4 @@
-create 5 similar problems to this one in markdown. include answers at the end. 
-if necessary, create images that can be downloaded and linked into the markdown
+- create 5 similar problems to these one in markdown. 
+- include these problems at the top. 
+- include answers at the end. 
+- if necessary, create images that can be downloaded and linked into the markdown

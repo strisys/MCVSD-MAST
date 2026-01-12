@@ -2,11 +2,13 @@
 
 # Arithmetic / Order of Operations
 
+---
+
 ### Solving Guide: PEMDAS Strategy
 
 When solving these problems, always move through the hierarchy of operations. For complex fractions, treat the bar as a grouping symbol: solve the entire numerator and denominator separately before the final division.
 
-
+---
 
 1. Evaluate the following:
 
@@ -44,5 +46,4 @@ $$\frac{(15 \div 5)^2 + 1}{(2 \div 4)^2 \times 8}$$
 10. Evaluate the following expression:
 
 $$5 \times [24 \div (10 - 2)] + 3^2$$
-
 

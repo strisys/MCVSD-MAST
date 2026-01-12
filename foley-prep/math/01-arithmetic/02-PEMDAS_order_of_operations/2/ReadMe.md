@@ -1,8 +1,12 @@
 # Arithmetic / Order of Operations
 
+---
+
 ### Learning Aid: PEMDAS Hierarchy
 
 For these problems, always refer to the order of operations. When you see a fraction bar, solve the entire top and the entire bottom completely before doing the final division.
+
+---
 
 1. Complex Fraction Evaluation
 
@@ -59,5 +63,4 @@ $$\frac{(15 \div 5)^2 + 1}{(2 \div 4)^2 \times 8}$$
 Evaluate the following expression:
 
 $$5 \times [24 \div (10 - 2)] + 3^2$$
-
 

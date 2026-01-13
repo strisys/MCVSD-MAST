@@ -1,9 +1,5 @@
 # Geometry / Polygons
 
-Certainly! Here are the questions from your image along with five new ones, adapted into an open-ended format.
-
-### **MCVSD Practice Set: Geometry & Measurement**
-
 ### Problem 1
 
 Lisa takes the number of sides in a decagon, then divides it by one fewer than the number of sides in a hexagon. What is the resulting number?

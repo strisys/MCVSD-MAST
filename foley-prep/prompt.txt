@@ -1,4 +1,5 @@
-- create 5 similar problems to these one in markdown. 
+- create 5 additional and similar problems to these one in markdown. 
 - include these problems at the top. 
-- include answers at the end. 
+- DO NOT make multiple choice like the problems provided.
+- include answer key at the end
 - if necessary, create images that can be downloaded and linked into the markdown
